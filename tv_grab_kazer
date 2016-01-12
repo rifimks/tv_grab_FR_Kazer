@@ -48,7 +48,7 @@ then
 fi
 
 # Définition de votre User Hash
-http://www.kazer.org/tvguide.xml?u=8dh7yce6z9d7j
+
 	
 if [ -z "$KAZERURL" ]
 then
